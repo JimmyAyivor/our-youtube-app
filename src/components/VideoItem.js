@@ -1,7 +1,8 @@
 import React from 'react'
 
-export const VideoItem = () => {
+ const VideoItem = () => {
   return (
     <div>VideoItem</div>
   )
 }
+export default VideoItem
