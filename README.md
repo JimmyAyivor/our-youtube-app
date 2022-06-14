@@ -3,8 +3,7 @@
 This project was created & collaborated on by :-
 Jimmy Ayivor -> [@JimmyAyivor](https://github.com/JimmyAyivor),
 Christine Taylor -> [@ctay47](https://github.com/@ctay47) &
-Michael Kleemoff -> [@MichaelKleemof](https://github.com/MichaelKleemof) 
-
+Michael Kleemoff -> [@MichaelKleemoff](https://github.com/MichaelKleemoff)
 
 
 ### `Miro link`
@@ -15,7 +14,6 @@ Michael Kleemoff -> [@MichaelKleemof](https://github.com/MichaelKleemof)
 [Trello](https://trello.com/b/aReDT4Hd/youtube-project-jimmy-michael-christine)
 
 ===========================
-
 
 # Getting Started with Create React App
 
