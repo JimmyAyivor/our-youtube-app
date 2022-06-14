@@ -1,16 +1,19 @@
 # Welcome to our Youtube React App
 
-This project was created & colloborated on by :-
+This project was created & collaborated on by :-
 Jimmy Ayivor -> [@JimmyAyivor](https://github.com/JimmyAyivor),
 Christine Taylor -> [@ctay47](https://github.com/@ctay47) &
 Michael Kleemoff -> [@MichaelKleemof](https://github.com/MichaelKleemof)
 
-### `Miro Trello link`
+
+### `Miro link`
+[Miro](https://miro.com/welcomeonboard/YXVmeWVLUDMyeGE2QVY4UWJKVnFjZldLTkhlWWRDT3lLZkJYMmZSZXhuSnk5ejBqMUxwSjZ2dndvTmVYSWF3VHwzNDU4NzY0NTIyNjE4MTcxMzYz?share_link_id=860070776935)
+>>>>>>> 0df48573027d7ca8249d3d45a559be101ed2bd5a
 
 [Miro](https://miro.com/welcomeonboard/YXVmeWVLUDMyeGE2QVY4UWJKVnFjZldLTkhlWWRDT3lLZkJYMmZSZXhuSnk5ejBqMUxwSjZ2dndvTmVYSWF3VHwzNDU4NzY0NTIyNjE4MTcxMzYz?share_link_id=860070776935)
 
-### `Project Trello link`
-
+### `Trello link`
+>>>>>>> 0df48573027d7ca8249d3d45a559be101ed2bd5a
 [Trello](https://trello.com/b/aReDT4Hd/youtube-project-jimmy-michael-christine)
 
 ===========================
