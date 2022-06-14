@@ -7,11 +7,11 @@ Michael Kleemoff -> [@MichaelKleemof](https://github.com/MichaelKleemof)
 
 
 
-### `Miro Trello link`
+### `Miro link`
 [Miro](https://miro.com/welcomeonboard/YXVmeWVLUDMyeGE2QVY4UWJKVnFjZldLTkhlWWRDT3lLZkJYMmZSZXhuSnk5ejBqMUxwSjZ2dndvTmVYSWF3VHwzNDU4NzY0NTIyNjE4MTcxMzYz?share_link_id=860070776935)
 
 
-### `Project Trello link`
+### `Trello link`
 [Trello](https://trello.com/b/aReDT4Hd/youtube-project-jimmy-michael-christine)
 
 ===========================
