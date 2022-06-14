@@ -8,12 +8,9 @@ Michael Kleemoff -> [@MichaelKleemof](https://github.com/MichaelKleemof)
 
 ### `Miro link`
 [Miro](https://miro.com/welcomeonboard/YXVmeWVLUDMyeGE2QVY4UWJKVnFjZldLTkhlWWRDT3lLZkJYMmZSZXhuSnk5ejBqMUxwSjZ2dndvTmVYSWF3VHwzNDU4NzY0NTIyNjE4MTcxMzYz?share_link_id=860070776935)
->>>>>>> 0df48573027d7ca8249d3d45a559be101ed2bd5a
 
-[Miro](https://miro.com/welcomeonboard/YXVmeWVLUDMyeGE2QVY4UWJKVnFjZldLTkhlWWRDT3lLZkJYMmZSZXhuSnk5ejBqMUxwSjZ2dndvTmVYSWF3VHwzNDU4NzY0NTIyNjE4MTcxMzYz?share_link_id=860070776935)
 
 ### `Trello link`
->>>>>>> 0df48573027d7ca8249d3d45a559be101ed2bd5a
 [Trello](https://trello.com/b/aReDT4Hd/youtube-project-jimmy-michael-christine)
 
 ===========================
