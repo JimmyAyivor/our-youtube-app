@@ -1,6 +1,6 @@
 # Welcome to our Youtube React App
 
-This project was created & colloborated on by :-
+This project was created & collaborated on by :-
 Jimmy Ayivor -> [@JimmyAyivor](https://github.com/JimmyAyivor),
 Christine Taylor -> [@ctay47](https://github.com/@ctay47) &
 Michael Kleemoff -> [@MichaelKleemof](https://github.com/MichaelKleemof) 
