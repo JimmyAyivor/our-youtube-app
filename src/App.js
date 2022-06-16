@@ -1,19 +1,17 @@
-import { React, useEffect } from "react";
-import "./App.css";
-import youtube, { getYoutubeVideos } from "./apis/youtube";
-import Nav  from "./components/Nav";
-import SearchBar from "./components/SearchBar";
-import VideoDetail from "./components/VideoDetail";
-import VideoList from "./components/VideoList";
+/** @format */
 
-
-
+import React, { useEffect } from 'react';
+import './App.css';
+import youtube, { getYoutubeVideos } from './apis/youtube';
+import Nav from './components/Nav';
+import VideoItem from './components/VideoItem';
+import SearchBar from './components/SearchBar';
+import VideoDetail from './components/VideoDetail';
+import VideoList from './components/VideoList';
 
 export const App = () => {
-  return (
-    <div>App</div>
-  )
-}
+	return <VideoItem videoId={getYoutubeVideos} />;
+};
 
 // function App() {
 //   // useEffect(() => {
@@ -21,7 +19,7 @@ export const App = () => {
 //   // }, []);
 
 //   return (
-    
+
 //     <div className='App'>
 //       {/* <Nav />
 //       <SearchBar />
