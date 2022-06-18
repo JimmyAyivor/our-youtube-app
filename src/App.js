@@ -40,6 +40,7 @@ function App() {
     getData();
   }, []);
 
+
   return (
     <div className='container'>
       <Router>
@@ -62,5 +63,6 @@ function App() {
     </div>
   );
 }
+
 
 export default App;

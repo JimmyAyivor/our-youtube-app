@@ -1,6 +1,4 @@
 
-
-
 /* 
 ====== 
 Variables 
@@ -193,7 +191,9 @@ img{
   text-decoration: none;
   font-size: 17px;
 }
-
+.imgRow{
+  display: flex;
+}
 /* Change the color of links on hover */
 .topnav a:hover {
   background-color: #ddd;
@@ -262,4 +262,9 @@ form::after {
   content: "";
   clear: both;
   display: table;
+}
+.imgColumn{
+  
+flex: 33.33%;
+  padding: 10px;
 }

@@ -5,20 +5,44 @@ import logo from "../logo.svg";
 const Nav = () => {
   return (
     <nav className='navbar'>
-      <div className='nav-center'>
+      <div className="nav-center">
         <Link to='/'>
-          <img src={logo} alt='youtube logo' className='logo' />
+          <img src={logo} alt='youtube logo' className='logo'/>
+
         </Link>
         <ul className='nav-links'>
           <li>
-            <Link to='/'>Home</Link>
+            <Link to='/'>
+              Home
+            </Link>
           </li>
           <li>
-            <Link to='/about'>About</Link>
+            <Link to='/about'>
+              About
+            </Link>
           </li>
+
         </ul>
       </div>
-    </nav>
-  );
-};
-export default Nav;
+     
+      </nav>
+
+  )
+   
+    
+  
+    
+
+
+
+
+
+
+
+
+
+
+   
+   
+}
+export default Nav
