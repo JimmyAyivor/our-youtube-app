@@ -9,7 +9,6 @@ const VideoList = ({ videos, handleSelectedVideo }) => {
   } else {
     const renderedVideos = videos.map((video) => {
       const id = video.id.videoId;
-      console.log(id);
       return (
         <>
           <VideoItem
