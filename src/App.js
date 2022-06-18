@@ -1,6 +1,8 @@
-import { React, useEffect } from "react";
+import React from "react";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import "./App.css";
-import youtube, { getYoutubeVideos } from "./apis/youtube";
+import  Home  from "./components/common/Home"
+import About from "./components/common/About"
 import Nav  from "./components/Nav";
 import SearchBar from "./components/SearchBar";
 import VideoDetail from "./components/VideoDetail";
@@ -9,26 +11,20 @@ import VideoList from "./components/VideoList";
 
 
 
-export const App = () => {
+const App = () => {
   return (
-    <div>App</div>
+    <div>
+      <Router>
+        <Nav />
+        <Routes>
+          <Route exact path="/" element={<Home />}/>
+          <Route  path="/about" element={<About />}/>
+        </Routes>
+      </Router>
+    </div>
   )
 }
 
-// function App() {
-//   // useEffect(() => {
-//   //   getYoutubeVideos();
-//   // }, []);
 
-//   return (
-    
-//     <div className='App'>
-//       {/* <Nav />
-//       <SearchBar />
-//       <VideoDetail />
-//       <VideoList /> */}
-//     </div>
-//   );
-// }
 
 export default App;
