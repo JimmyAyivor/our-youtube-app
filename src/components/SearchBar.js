@@ -1,11 +1,31 @@
-import React from 'react'
-import { getYoutubeVideos } from '../apis/youtube'
+import React, { useState } from "react";
 
+const SearchBar = (props) => {
+  const [search, setSearch] = useState("");
+  console.log(search);
 
-const SearchBar = () => {
+  const handleSearch = (e) => {
+    const { value } = e.target;
+    setSearch(value);
+  };
+  const handleSubmit = (event) => {
+    event.preventDefault();
+    props.handleSearchSubmit(search);
+  };
+
   return (
-    <div>SearchBar</div>
-  )
-}
+    <div className='search'>
+      <form class='form' onSubmit={handleSubmit}>
+        <input
+          type='text'
+          placeholder='Search..'
+          name='search'
+          onChange={handleSearch}
+        />
+        <button type='submit'>Search</button>
+      </form>
+    </div>
+  );
+};
 
-export default SearchBar
+export default SearchBar;

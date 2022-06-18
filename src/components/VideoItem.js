@@ -1,8 +1,19 @@
-import React from 'react'
+import React from "react";
 
- const VideoItem = () => {
+const VideoItem = ({ video, handleSelectedVideo }) => {
   return (
-    <div>VideoItem</div>
-  )
-}
-export default VideoItem
+    <div className='video-item'>
+      <div onClick={() => handleSelectedVideo(video)} className=''>
+        <img
+          className='image'
+          src={video.snippet.thumbnails.medium.url}
+          alt={video.snippet.description}
+        />
+        <div className='content'>
+          <div className='header '>{video.snippet.title}</div>
+        </div>
+      </div>
+    </div>
+  );
+};
+export default VideoItem;

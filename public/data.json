@@ -1,0 +1,854 @@
+{
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "j8PWMc0ko3LlxKvH-WeBDYWwu1c",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "v_B5VdGTMO0"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-30T06:21:42Z",
+                "channelId": "UCSi0tBoBAwuSzPYBQ965Log",
+                "title": "pharynx_16",
+                "description": "https://youtube.com/channel/UCSi0tBoBAwuSzPYBQ965Log ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/v_B5VdGTMO0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/v_B5VdGTMO0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/v_B5VdGTMO0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "badstv",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-30T06:21:42Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "31ST8pXuB-9eu67kw_wJTQ4xf5M",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "2mSwcRb3KjQ"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-17T12:41:51Z",
+                "channelId": "UC9Q4rw4dkey9lhK5FnYuigg",
+                "title": "Using Python and YouTube API  to Create Analytics on any Channel.",
+                "description": "Python and YouTube's API can be used to generate data on any channel on YouTube for free. In this video, we dive into the API to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/2mSwcRb3KjQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/2mSwcRb3KjQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/2mSwcRb3KjQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "ClarityCoders",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-17T12:41:51Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "jcYCM9qjAGCG5ftfHcVojznFq78",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "SwSbnmqk3zY"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-13T13:00:13Z",
+                "channelId": "UCnz-ZXXER4jOvuED5trXfEA",
+                "title": "Python Project to Scrape YouTube using YouTube Data API | Analyze and Visualize YouTube data",
+                "description": "In this video, we build a Python Project to Scrape YouTube data using YouTube Data API. Using YouTube API, we extract the data ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/SwSbnmqk3zY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/SwSbnmqk3zY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/SwSbnmqk3zY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "techTFQ",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-13T13:00:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "8ygVdO4VkV7Fj6b-g2T-qMCnsr8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "itiRd7iZ2_M"
+            },
+            "snippet": {
+                "publishedAt": "2020-03-08T13:00:14Z",
+                "channelId": "UCbXgNpp0jedKWcQiULLbDTA",
+                "title": "YouTube Data API Tutorial with Python - Get Video Statistics - Part 3",
+                "description": "In this Python Tutorial we will be learning how to work with the YouTube Data API and analyze channel statistics. This is going to ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/itiRd7iZ2_M/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/itiRd7iZ2_M/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/itiRd7iZ2_M/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Python Engineer",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-03-08T13:00:14Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "QKgYb1i0YnQcRzVz_4Mbtu3jM6o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QB6wffjmYJ0"
+            },
+            "snippet": {
+                "publishedAt": "2021-02-10T23:25:08Z",
+                "channelId": "UCEqkBY5gSBrIL9La6xSmt6A",
+                "title": "Manual CDS Data Capture",
+                "description": "0:00 Introduction 0:39 Create declaration for outbound item at post 1:22 Fill in the declaration header 2:50 Fill in sender and ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QB6wffjmYJ0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QB6wffjmYJ0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QB6wffjmYJ0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "UPU Products and Services",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-02-10T23:25:08Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "MDtby467awz440zxXmzcQJl5WSk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "i_5xPDX-erE"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-18T14:45:02Z",
+                "channelId": "UCvVZ19DRSLIC2-RUOeWx8ug",
+                "title": "Extract YouTube Video Details in Python (using YouTube Data API)",
+                "description": "In this Python tutorial, we are going to learn how to extract YouTube video information (title, tags, description, published date, ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i_5xPDX-erE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i_5xPDX-erE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i_5xPDX-erE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jie Jenn",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-18T14:45:02Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ayImG13s1r3VJUBxGjHFwQifz88",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "r-yxNNO1EI8"
+            },
+            "snippet": {
+                "publishedAt": "2018-07-12T19:51:05Z",
+                "channelId": "UC29ju8bIPH5as8OGnQzwJyA",
+                "title": "YouTube API Project With Authentication",
+                "description": "In this JavaScript project we will use the YouTube API v3 to fetch channel data and videos. We will create a search form to change ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r-yxNNO1EI8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r-yxNNO1EI8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r-yxNNO1EI8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Traversy Media",
+                "liveBroadcastContent": "none",
+                "publishTime": "2018-07-12T19:51:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "9M4PjH6dHVxUV3z0GClWTVxIWQE",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZboVgFP3V2g"
+            },
+            "snippet": {
+                "publishedAt": "2021-03-24T15:00:10Z",
+                "channelId": "UCvVZ19DRSLIC2-RUOeWx8ug",
+                "title": "Export YouTube Channel Playlist to Excel using Python",
+                "description": "In this tutorial, we are going to learn how to create a Python program export a YouTube channel's playlist detail to a Microsoft ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZboVgFP3V2g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZboVgFP3V2g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZboVgFP3V2g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jie Jenn",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-03-24T15:00:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "u-lQ6YeyMr5mOJgVaVS3ojeXRbc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yCh9bLVaFVc"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-15T12:00:23Z",
+                "channelId": "UCcfoM3n4KMAAMZzom4_mRZA",
+                "title": "Download and Cache YouTube Data in an Eleventy Website with Simple JavaScript",
+                "description": "Need to interact with YouTube from your static generated website built with Eleventy? In this video we explore using simple ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yCh9bLVaFVc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yCh9bLVaFVc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yCh9bLVaFVc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "The Polyglot Developer",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-15T12:00:23Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-y13Nb8qjkjKF1bZLtvGs7mfbOI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "Y_yFN1HWj7I"
+            },
+            "snippet": {
+                "publishedAt": "2021-07-28T13:15:01Z",
+                "channelId": "UCZUOyadcadiZ1KseDCNc-Cg",
+                "title": "Google Apps Script 23 - Servicios Avanzados: Youtube API",
+                "description": "En este tutorial te explico qué son los #serviciosavanzados de #google, específicamente trabajamos con #YouTubeAPI para ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Y_yFN1HWj7I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Y_yFN1HWj7I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Y_yFN1HWj7I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mozart Alberto García de Haro",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-07-28T13:15:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "6yQNkKUK50DYVAq1WqEfMpfoVf8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "RgtsBdeQ4Vc"
+            },
+            "snippet": {
+                "publishedAt": "2021-01-11T14:45:03Z",
+                "channelId": "UCvVZ19DRSLIC2-RUOeWx8ug",
+                "title": "[Python Project] Create a YouTube Channel Videos Scraper with Python | Part 1",
+                "description": "In this tutorial series, we are going to learn how to build a Python program to extract a channel's uploaded videos information ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/RgtsBdeQ4Vc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/RgtsBdeQ4Vc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/RgtsBdeQ4Vc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jie Jenn",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-01-11T14:45:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "45keMNo5qPzOpuj_gAzgNrYktOA",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "vukzYCi2_yE"
+            },
+            "snippet": {
+                "publishedAt": "2022-04-09T15:00:55Z",
+                "channelId": "UC-QDfvrRIDB6F0bIO4I4HkQ",
+                "title": "Django + HTMX Example App: Progress bar, infinite scroll and modal with NO JavaScript",
+                "description": "In this video, I walk you through an example Django app that has a dynamic frontend but doesn't use any JavaScript. Instead ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/vukzYCi2_yE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/vukzYCi2_yE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/vukzYCi2_yE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Pretty Printed",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-04-09T15:00:55Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "0vZRhVdQjly3rXPMwLjTq5m0mdg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "GAfKqv8IpQg"
+            },
+            "snippet": {
+                "publishedAt": "2020-11-10T21:50:21Z",
+                "channelId": "UCq23csisa-bjoTEFSVxgn7A",
+                "title": "API YouTube Раздельный сбор 10 Характеристики видео методом videos БЕЗ программирования и С",
+                "description": "The playlist: https://www.youtube.com/playlist?list=PLa8lq3EibqqTQQ2JQm8ik5P7gljnw27L4 0:00 Зачем прибегать к методу ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/GAfKqv8IpQg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/GAfKqv8IpQg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/GAfKqv8IpQg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Алексей Ротмистров",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-11-10T21:50:21Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hMChA8blxeypvhbyjc3es0do_lk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "7U-0k_TdmbE"
+            },
+            "snippet": {
+                "publishedAt": "2021-10-19T08:30:53Z",
+                "channelId": "UCzst9qXxt16fXlIQkoU31fw",
+                "title": "How to autoupdating video title in a youtube Brand Account (14 likes 210 Views!)",
+                "description": "cannot use the youtube API in youtube brand account/channel? If you are trying to use the YouTube API to get data about a ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/7U-0k_TdmbE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/7U-0k_TdmbE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/7U-0k_TdmbE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Mingyea Yo",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-10-19T08:30:53Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "3iVdZaJL7U427cUMDbSoVmuHXU0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZMXw_nX4l5k"
+            },
+            "snippet": {
+                "publishedAt": "2013-03-26T09:08:03Z",
+                "channelId": "UCKNPATUp1DqfjngbhbKePkQ",
+                "title": "Polycom OTX 100 Immersive Telepresence Solution - VISITELECOM",
+                "description": "Where ideas flow, problems are solved and productivity soars Polycom Open Telepresence Experience (OTX) brings the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZMXw_nX4l5k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZMXw_nX4l5k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZMXw_nX4l5k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "VISITELECOM",
+                "liveBroadcastContent": "none",
+                "publishTime": "2013-03-26T09:08:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "x58GSuknqZZ4kcLVJhjrIHVAzDQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "QM-bwCxbkvw"
+            },
+            "snippet": {
+                "publishedAt": "2017-11-20T19:33:20Z",
+                "channelId": "UCMlKI3GJcOpPbN59Eo0d6xA",
+                "title": "Finding Government Info with GovInfo",
+                "description": "This video will help you find government information using the site GovInfo. Creative Commons License: This work is licensed ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/QM-bwCxbkvw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/QM-bwCxbkvw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/QM-bwCxbkvw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "USU Libraries",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-11-20T19:33:20Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "JjDiDfXEukKlsyBF9Tpuh1c63LY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "V-3sLO_TWl0"
+            },
+            "snippet": {
+                "publishedAt": "2021-08-28T05:17:25Z",
+                "channelId": "UCxlsL1-5gY-tSAvkYvEq2ew",
+                "title": "jetpack compose lazy column - dynamic list with state management.",
+                "description": "In this jetpack compose tutorial we will learn about lazycolumn in jetpack compose, which is similar to recyclerview in the ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/V-3sLO_TWl0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/V-3sLO_TWl0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/V-3sLO_TWl0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "HoodLab",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-08-28T05:17:25Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "aWyOzSuqS-PjgdkRLMXpya_lDk0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "kVcAI4Xfy6I"
+            },
+            "snippet": {
+                "publishedAt": "2014-09-23T10:16:58Z",
+                "channelId": "UCbOOPJFnwbQh68TST3gEAvQ",
+                "title": "Part 1: 4th Consultative Forum on #CoffeeSectorFinance - International Coffee Organization",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/kVcAI4Xfy6I/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/kVcAI4Xfy6I/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/kVcAI4Xfy6I/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "International Coffee Organization",
+                "liveBroadcastContent": "none",
+                "publishTime": "2014-09-23T10:16:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "VwG9XpHMFI04Q5F9j34b3IjRJE4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "_slY9jyPf2g"
+            },
+            "snippet": {
+                "publishedAt": "2021-09-16T16:31:58Z",
+                "channelId": "UCVnIv2xF2wyMMCSKv1qF3pA",
+                "title": "Regenerative by design: Engaging the world&#39;s 160 million designers to deliver the circular economy",
+                "description": "Watch SAP, Ellen MacArthur Foundation and London Design Festival discuss the importance of technology and industry ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/_slY9jyPf2g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/_slY9jyPf2g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/_slY9jyPf2g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SAP",
+                "liveBroadcastContent": "none",
+                "publishTime": "2021-09-16T16:31:58Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "EzICqiZKclp3b4ZLhcwDbB8DBxw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "-4-TvSu3ANg"
+            },
+            "snippet": {
+                "publishedAt": "2020-05-22T20:49:39Z",
+                "channelId": "UC69A-AYIJnyCN_CpJOkAKmQ",
+                "title": "SAP Profitability and Performance Management – Value Chain Sustainability Management Content Details",
+                "description": "In this video you'll find further details of the Value Chain Sustainability Management Content for SAP Profitability and Performance ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/-4-TvSu3ANg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/-4-TvSu3ANg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/-4-TvSu3ANg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "SAP Analytics",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-05-22T20:49:39Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "92dIg_4XvjE6NfOINVFZiP6ftDo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "XwW7WDOAiWE"
+            },
+            "snippet": {
+                "publishedAt": "2020-10-05T07:00:04Z",
+                "channelId": "UCUSqKFDbRaaWQTaMN3r4Pbg",
+                "title": "Android GPS Tutorial with Fused Location Provider",
+                "description": "How to program an app with GPS location services. This will show you how to use the FusedLocationProvider client, get user ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/XwW7WDOAiWE/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/XwW7WDOAiWE/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/XwW7WDOAiWE/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Programming with Professor Sluiter",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-10-05T07:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BPQUgvVfegUi8C2kBJMRwiZgn84",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "eey8VoDPhTw"
+            },
+            "snippet": {
+                "publishedAt": "2015-11-03T19:44:40Z",
+                "channelId": "UCQBil0X79qGUpd68rCBUfHw",
+                "title": "ICFP 2015: Family planning as a foundation to human development",
+                "description": "Dr. Timothy Mastro, FHI 360's Director of Global Health, Population and Nutrition, discusses the importance of the 2015 ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/eey8VoDPhTw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/eey8VoDPhTw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/eey8VoDPhTw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "FHI 360",
+                "liveBroadcastContent": "none",
+                "publishTime": "2015-11-03T19:44:40Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_O1HpWOhHdYOBwhAkNITPsfCCDY",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ZXc5bHBUaHw"
+            },
+            "snippet": {
+                "publishedAt": "2022-05-04T19:01:41Z",
+                "channelId": "UC2jPnpQ91IhcUAJcd5YwAAg",
+                "title": "HIVE CMS User Learning Series: Digging into Content Details",
+                "description": "So you have found what you believe to be the correct piece of content… Is it really? Do you want to know for sure before you load ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ZXc5bHBUaHw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ZXc5bHBUaHw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ZXc5bHBUaHw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "CTC Software",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-05-04T19:01:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "hT29eQ8M_iU5_M4iq9pRNkW85M4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "86YgnJMDrfk"
+            },
+            "snippet": {
+                "publishedAt": "2020-06-30T13:45:01Z",
+                "channelId": "UCvVZ19DRSLIC2-RUOeWx8ug",
+                "title": "How to copy videos from any YouTube playlist to your own playlist with Python and YouTube API",
+                "description": "In this Python tutorial, we are going to learn how to use YouTube Data API to copy videos from any YouTube playlist (can be your ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/86YgnJMDrfk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/86YgnJMDrfk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/86YgnJMDrfk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Jie Jenn",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-06-30T13:45:01Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4Y2ibbpqH0kBDE_ghNXQOdQpGig",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "1KO_HZtHOWI"
+            },
+            "snippet": {
+                "publishedAt": "2020-07-31T14:30:00Z",
+                "channelId": "UCCezIgC97PvUuR4_gbFUs5g",
+                "title": "Python YouTube API Tutorial: Sort a Playlist by Most Popular Videos",
+                "description": "In this Python Programming Tutorial, we'll be learning how to get the most popular videos in a YouTube playlist. I use scripts like ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1KO_HZtHOWI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1KO_HZtHOWI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1KO_HZtHOWI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Corey Schafer",
+                "liveBroadcastContent": "none",
+                "publishTime": "2020-07-31T14:30:00Z"
+            }
+        }
+    ]
+}
