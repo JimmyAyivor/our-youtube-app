@@ -7,3 +7,4 @@ export async function getYoutubeVideos(searchTerm) {
     &part=snippet&maxResults=24&q=${searchTerm}`);
     return await response.json();
 }
+//console.log(getYoutubeVideos());
