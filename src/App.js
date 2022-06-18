@@ -13,12 +13,13 @@ function App() {
       .then((data) => setVideos(data.items))
 
       .catch((error) => {
-        console.error("Erro---->", error);
+        console.error("Error---->", error);
       });
 
   };
   const handleSelectedVideo = (video) => {
     setSelectedVideo(video);
+    
   };
 
   const getData = () => {
@@ -39,7 +40,7 @@ function App() {
   useEffect(() => {
     getData();
   }, []);
-
+  console.log(videos);
 
   return (
     <div className='container'>
