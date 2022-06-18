@@ -1,12 +1,10 @@
-import React, { useEffect, useState } from "react";
+import React, { useState, useEffect } from "react";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import "./App.css";
 import { getYoutubeVideos } from "./apis/youtube";
 import Nav from "./components/Nav";
-import SearchBar from "./components/SearchBar";
-import VideoDetail from "./components/VideoDetail";
-import VideoList from "./components/VideoList";
-import Comments from "./components/Comments/Comments";
-
+import Home from "./components/common/Home";
+import About from "./components/common/About";
 function App() {
   const [videos, setVideos] = useState([]);
   const [selectedVideo, setSelectedVideo] = useState(null);
@@ -18,8 +16,6 @@ function App() {
         console.error("Erro---->", error);
       });
 
-    console.log("this is resp", videos);
-    console.log("this is Search", searchTerm);
   };
   const handleSelectedVideo = (video) => {
     setSelectedVideo(video);
@@ -46,11 +42,23 @@ function App() {
 
   return (
     <div className='container'>
-      <Nav />
-      <SearchBar handleSearchSubmit={handleSearchSubmit} />
-      <VideoDetail video={selectedVideo} />
-      <VideoList handleSelectedVideo={handleSelectedVideo} videos={videos} />
-      <Comments />
+      <Router>
+        <Nav />
+        <Routes>
+          <Route
+            exact
+            path='/'
+            element={
+              <Home
+                handleSearchSubmit={handleSearchSubmit}
+                handleSelectedVideo={handleSelectedVideo}
+                videos={videos}
+              />
+            }
+          />
+          <Route path='/about' element={<About />} />
+        </Routes>
+      </Router>
     </div>
   );
 }
