@@ -1,7 +1,12 @@
 import React from 'react'
+import VideoList from '../VideoList'
+import SearchBar from '../SearchBar'
 
 export default function Home() {
   return (
-    <div>Home</div>
+    <main>
+      <SearchBar />
+      <VideoList />
+    </main>
   )
 }
