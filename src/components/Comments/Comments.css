@@ -1,0 +1,24 @@
+.comment-box {
+    padding: 20px;
+    /*font-weight: bold;*/
+}
+
+.comment-box form {
+    padding: 12px;
+    border: 1px solid rebeccapurple;
+    font-weight: bold;
+}
+
+input {
+    padding: 2px;
+    margin: 0 5px;
+}
+
+.CommentBtn {
+    background-color: rebeccapurple;
+    border-radius: 5px;
+    color: white;
+    width: 120px;
+    font-weight: bolder;
+
+}

@@ -1,8 +1,16 @@
-import React from 'react'
+import React from "react";
 
 const Nav = () => {
   return (
-    <div>Nav</div>
-  )
-}
-export default Nav
+    <div className='nav'>
+      <div className='topnav'>
+        <a class='active' href='#home'>
+          Home
+        </a>
+        <a href='#about'>About</a>
+        <a href='#contact'>Contact</a>
+      </div>{" "}
+    </div>
+  );
+};
+export default Nav;
