@@ -1,22 +1,21 @@
 /** @format */
 
 import React from 'react';
-import YouTube from 'react-youtube';
-import { getYoutubeVideos } from '../apis/youtube';
 
-const VideoItem = (props) => {
-	const { response, getYoutubeVideos } = props;
-
-	const opts = {
-		height: '390',
-		width: '640',
-		playerVars: {
-			// https://developers.google.com/youtube/player_parameters
-			autoplay: 1,
-		},
-	};
-
-	return <YouTube videoId={getYoutubeVideos} opts={opts} />;
+const VideoItem = ({ video, handleSelectedVideo }) => {
+	return (
+		<div className='video-item'>
+			<div onClick={() => handleSelectedVideo(video)} className=''>
+				<img
+					className='image'
+					src={video.snippet.thumbnails.medium.url}
+					alt={video.snippet.description}
+				/>
+				<div className='content'>
+					<div className='header '>{video.snippet.title}</div>
+				</div>
+			</div>
+		</div>
+	);
 };
-
 export default VideoItem;

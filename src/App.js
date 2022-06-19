@@ -1,29 +1,69 @@
 /** @format */
 
-import React, { useEffect } from 'react';
+import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import './App.css';
-import Home from './components/common/Home';
-import About from './components/common/About';
 import { getYoutubeVideos } from './apis/youtube';
 import Nav from './components/Nav';
-import SearchBar from './components/SearchBar';
-import VideoDetail from './components/VideoDetail';
-import VideoList from './components/VideoList';
+import Home from './components/common/Home';
+import About from './components/common/About';
+function App() {
+	const [videos, setVideos] = useState([]);
+	const [selectedVideo, setSelectedVideo] = useState(null);
+	const handleSearchSubmit = (searchTerm) => {
+		getYoutubeVideos(searchTerm)
+			.then((data) => setVideos(data.items))
 
-const App = () => {
+			.catch((error) => {
+				console.error('Error---->', error);
+			});
+	};
+	const handleSelectedVideo = (video) => {
+		setSelectedVideo(video);
+	};
+
+	const getData = () => {
+		fetch('data.json', {
+			headers: {
+				'Content-Type': 'application/json',
+				Accept: 'application/json',
+			},
+		})
+			.then(function(response) {
+				console.log(response);
+				return response.json();
+			})
+			.then(function(myJson) {
+				setVideos(myJson.items);
+			});
+	};
+	useEffect(() => {
+		getData();
+	}, []);
+	console.log(videos);
+
 	return (
-		<div>
-			<Nav />
+		<div className='container'>
 			<Router>
+				<Nav />
 				<Routes>
+					<Route
+						exact
+						path='/'
+						element={
+							<Home
+								handleSearchSubmit={handleSearchSubmit}
+								handleSelectedVideo={handleSelectedVideo}
+								videos={videos}
+							/>
+						}
+					/>
 					<Route path='/about' element={<About />} />
-					<Route exact path='/' element={<Home />} />
 				</Routes>
 			</Router>
 		</div>
 	);
-};
+}
 
 //   return (
 

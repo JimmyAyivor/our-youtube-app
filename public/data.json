@@ -1,0 +1,820 @@
+{
+    "items": [
+        {
+            "kind": "youtube#searchResult",
+            "etag": "whPQ4KgcpnOL2xbI7BephtUlI-Y",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "lWA2pjMjpBs"
+            },
+            "snippet": {
+                "publishedAt": "2012-11-09T00:18:50Z",
+                "channelId": "UC2xskkQVFEpLcGFnNSLQY0A",
+                "title": "Rihanna - Diamonds",
+                "description": "Get Rihanna's eighth studio album ANTI now: Download on TIDAL: http://smarturl.it/downloadANTI Stream on TIDAL: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lWA2pjMjpBs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lWA2pjMjpBs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lWA2pjMjpBs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RihannaVEVO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2012-11-09T00:18:50Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Hkz1LiN05mvSPzUPotItXZH0PG0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "fyaI4-5849w"
+            },
+            "snippet": {
+                "publishedAt": "2017-06-16T10:00:04Z",
+                "channelId": "UCrFB54bqp8sda4udJyNswlA",
+                "title": "DJ Khaled - Wild Thoughts (Official Video) ft. Rihanna, Bryson Tiller",
+                "description": "Watch the official music video for \"Wild Thoughts\" by DJ Khaled​ feat. Rihanna & Bryson Tiller Listen to DJ Khaled: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/fyaI4-5849w/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/fyaI4-5849w/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/fyaI4-5849w/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "DJKhaledVEVO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2017-06-16T10:00:04Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bTkQ3RzMHxrJ00WaDMu_xaYnaGg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "6t9ru5A7tFY"
+            },
+            "snippet": {
+                "publishedAt": "2022-06-17T06:03:38Z",
+                "channelId": "UCwcKV1Jd-3Vl2AaK4OOjBWg",
+                "title": "Billboard Hot 150 This Week  💜💜💜 ADELE, Rihana, Maroon 5, Bilie Eilish, Charlie Puth, Arianna Grande",
+                "description": "Billboard Hot 150 This Week ADELE, Rihana, Maroon 5, Bilie Eilish, Charlie Puth, Arianna Grande Thanks for watching!",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/6t9ru5A7tFY/default_live.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/6t9ru5A7tFY/mqdefault_live.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/6t9ru5A7tFY/hqdefault_live.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "English Songs",
+                "liveBroadcastContent": "live",
+                "publishTime": "2022-06-17T06:03:38Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "DbRkKSSpCEMVKFz53GALA1AO4JI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "sEhy-RXkNo0"
+            },
+            "snippet": {
+                "publishedAt": "2011-06-02T01:45:03Z",
+                "channelId": "UC2xskkQVFEpLcGFnNSLQY0A",
+                "title": "Rihanna - Man Down",
+                "description": "Get Rihanna's eighth studio album ANTI now: Download on TIDAL: http://smarturl.it/downloadANTI Stream on TIDAL: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/sEhy-RXkNo0/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/sEhy-RXkNo0/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/sEhy-RXkNo0/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RihannaVEVO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2011-06-02T01:45:03Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4VoQ9k1FiwWA-BYF2i1EVPbBMWI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "CvBfHwUxHIk"
+            },
+            "snippet": {
+                "publishedAt": "2009-12-14T03:28:47Z",
+                "channelId": "UC2xskkQVFEpLcGFnNSLQY0A",
+                "title": "Rihanna - Umbrella (Orange Version) (Official Music Video) ft. JAY-Z",
+                "description": "REMASTERED IN HD! Get Rihanna's eighth studio album ANTI now: Download on TIDAL: http://smarturl.it/downloadANTI Stream ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/CvBfHwUxHIk/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/CvBfHwUxHIk/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/CvBfHwUxHIk/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RihannaVEVO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2009-12-14T03:28:47Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "zuaqpTM-qScJEIDqySTARkl9Zzs",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "tg00YEETFzg"
+            },
+            "snippet": {
+                "publishedAt": "2011-10-20T04:00:00Z",
+                "channelId": "UC2xskkQVFEpLcGFnNSLQY0A",
+                "title": "Rihanna - We Found Love ft. Calvin Harris",
+                "description": "Get Rihanna's eighth studio album ANTI now: Download on TIDAL: http://smarturl.it/downloadANTI Stream on TIDAL: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/tg00YEETFzg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/tg00YEETFzg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/tg00YEETFzg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RihannaVEVO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2011-10-20T04:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "BgiJXukoU_iwETWNi6eAtSovZ4o",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "uelHwf8o7_U"
+            },
+            "snippet": {
+                "publishedAt": "2010-08-05T19:09:46Z",
+                "channelId": "UC20vb-R_px4CguHzzBPhoyQ",
+                "title": "Eminem - Love The Way You Lie ft. Rihanna",
+                "description": "Music video by Eminem performing Love The Way You Lie. © 2010 Aftermath Records #VEVOCertified on September 13, 2011.",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/uelHwf8o7_U/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/uelHwf8o7_U/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/uelHwf8o7_U/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "EminemVEVO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2010-08-05T19:09:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4Ho-2hBMoyr_ogFGRmbOSgP0nBw",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "wfN4PVaOU5Q"
+            },
+            "snippet": {
+                "publishedAt": "2016-04-20T16:00:05Z",
+                "channelId": "UC2xskkQVFEpLcGFnNSLQY0A",
+                "title": "Rihanna - Needed Me",
+                "description": "\"Needed Me\" from Rihanna's eighth studio album ANTI, available now: Download on TIDAL: http://smarturl.it/downloadANTI ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/wfN4PVaOU5Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/wfN4PVaOU5Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/wfN4PVaOU5Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RihannaVEVO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-04-20T16:00:05Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "ZvL9L0M_2T8Pk9cDeUMAOg0u6eI",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "e82VE8UtW8A"
+            },
+            "snippet": {
+                "publishedAt": "2010-02-09T19:35:27Z",
+                "channelId": "UC2xskkQVFEpLcGFnNSLQY0A",
+                "title": "Rihanna - Rude Boy",
+                "description": "REMASTERED IN HD! Get Rihanna's eighth studio album ANTI now: Download on TIDAL: http://smarturl.it/downloadANTI Stream ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/e82VE8UtW8A/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/e82VE8UtW8A/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/e82VE8UtW8A/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RihannaVEVO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2010-02-09T19:35:27Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "5IQI8U-f1MiGfr5zTXdPDha4HLQ",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yd8jh9QYfEs"
+            },
+            "snippet": {
+                "publishedAt": "2009-11-21T12:54:44Z",
+                "channelId": "UC2xskkQVFEpLcGFnNSLQY0A",
+                "title": "Rihanna - Don&#39;t Stop The Music",
+                "description": "Get Rihanna's eighth studio album ANTI now: Download on TIDAL: http://smarturl.it/downloadANTI Stream on TIDAL: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yd8jh9QYfEs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yd8jh9QYfEs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yd8jh9QYfEs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RihannaVEVO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2009-11-21T12:54:44Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "Bc_FFC1W_BbE3rRX1YdGAsoQth4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "JF8BRvqGCNs"
+            },
+            "snippet": {
+                "publishedAt": "2013-02-12T12:55:10Z",
+                "channelId": "UC2xskkQVFEpLcGFnNSLQY0A",
+                "title": "Rihanna - Stay ft. Mikky Ekko",
+                "description": "Get Rihanna's eighth studio album ANTI now: Download on TIDAL: http://smarturl.it/downloadANTI Stream on TIDAL: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/JF8BRvqGCNs/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/JF8BRvqGCNs/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/JF8BRvqGCNs/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RihannaVEVO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2013-02-12T12:55:10Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "4VrUNazyUj31wp4cK4UQ03tTE68",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "0RyInjfgNc4"
+            },
+            "snippet": {
+                "publishedAt": "2016-06-26T13:24:36Z",
+                "channelId": "UCuJt_oBsyBgq5d8JBJeJ8Vg",
+                "title": "Rihanna - Love On The Brain",
+                "description": "Get Rihanna's eighth studio album ANTI featuring Love On The Brain now: TIDAL: http://smarturl.it/downloadANTI iTunes: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0RyInjfgNc4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0RyInjfgNc4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0RyInjfgNc4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Lenn Beauty",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-06-26T13:24:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "XDtNqBE1HXoiC8-b5XLctfQZuGc",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HL1UzIK-flA"
+            },
+            "snippet": {
+                "publishedAt": "2016-02-22T17:00:00Z",
+                "channelId": "UC2xskkQVFEpLcGFnNSLQY0A",
+                "title": "Rihanna - Work (Explicit) ft. Drake",
+                "description": "Get Rihanna's eighth studio album ANTI now: Download on TIDAL: http://smarturl.it/downloadANTI Download on iTunes: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HL1UzIK-flA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HL1UzIK-flA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HL1UzIK-flA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RihannaVEVO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-02-22T17:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "7NqgSTKjyazDaC5_H7pg1IQWWFk",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "rp4UwPZfRis"
+            },
+            "snippet": {
+                "publishedAt": "2009-11-23T20:07:45Z",
+                "channelId": "UC2xskkQVFEpLcGFnNSLQY0A",
+                "title": "Rihanna - Unfaithful (Official Music Video)",
+                "description": "REMASTERED IN HD! Get Rihanna's eighth studio album ANTI now: Download on TIDAL: http://smarturl.it/downloadANTI Stream ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/rp4UwPZfRis/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/rp4UwPZfRis/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/rp4UwPZfRis/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RihannaVEVO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2009-11-23T20:07:45Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "i2E2mk5MCJpYuqcdMUVFuggec2s",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "J3UjJ4wKLkg"
+            },
+            "snippet": {
+                "publishedAt": "2009-11-30T08:46:13Z",
+                "channelId": "UC2xskkQVFEpLcGFnNSLQY0A",
+                "title": "Rihanna - Take A Bow",
+                "description": "REMASTERED IN HD! Get Rihanna's eighth studio album ANTI now: Download on TIDAL: http://smarturl.it/downloadANTI Stream ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/J3UjJ4wKLkg/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/J3UjJ4wKLkg/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/J3UjJ4wKLkg/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RihannaVEVO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2009-11-30T08:46:13Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "lCaKezEaqG-r1_tMI64eyuXQpbo",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "ehcVomMexkY"
+            },
+            "snippet": {
+                "publishedAt": "2013-10-03T02:00:00Z",
+                "channelId": "UC2xskkQVFEpLcGFnNSLQY0A",
+                "title": "Rihanna - Pour It Up (Explicit)",
+                "description": "Get Rihanna's eighth studio album ANTI now: Download on TIDAL: http://smarturl.it/downloadANTI Stream on TIDAL: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/ehcVomMexkY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/ehcVomMexkY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/ehcVomMexkY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RihannaVEVO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2013-10-03T02:00:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "_K79WxZ_p1Xk8qXjTQSSDDEixa0",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "oEauWw9ZGrA"
+            },
+            "snippet": {
+                "publishedAt": "2009-11-25T23:36:36Z",
+                "channelId": "UC2xskkQVFEpLcGFnNSLQY0A",
+                "title": "Rihanna - Pon de Replay (Internet Version)",
+                "description": "REMASTERED IN HD! Get Rihanna's eighth studio album ANTI now: Download on TIDAL: http://smarturl.it/downloadANTI Stream ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oEauWw9ZGrA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oEauWw9ZGrA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oEauWw9ZGrA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RihannaVEVO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2009-11-25T23:36:36Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "WNpNo2gVFQ5ch7xq-GQD_NHCkJU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "p9Ygppti7YI"
+            },
+            "snippet": {
+                "publishedAt": "2016-09-03T16:00:06Z",
+                "channelId": "UC2xskkQVFEpLcGFnNSLQY0A",
+                "title": "Don’t Stop The Music / Only Girl (In The World) / We Found Love / Where Have You Been (...",
+                "description": "Rihanna performs a medley of “Don't Stop The Music,” “Only Girl (In The World),” “We Found Love,” and “Where Have You Been” ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/p9Ygppti7YI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/p9Ygppti7YI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/p9Ygppti7YI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RihannaVEVO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-09-03T16:00:06Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "-TUKhhi806s2k8N5-gJfFlIqDE4",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "pa14VNsdSYM"
+            },
+            "snippet": {
+                "publishedAt": "2010-10-12T22:31:11Z",
+                "channelId": "UC2xskkQVFEpLcGFnNSLQY0A",
+                "title": "Rihanna - Only Girl (In The World)",
+                "description": "REMASTERED IN HD! Get Rihanna's eighth studio album ANTI now: Download on TIDAL: http://smarturl.it/downloadANTI Stream ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/pa14VNsdSYM/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/pa14VNsdSYM/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/pa14VNsdSYM/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RihannaVEVO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2010-10-12T22:31:11Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "LxFhBfa3gMOBVTDvMQT6nsG_Ob8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "yXvyJDqqQec"
+            },
+            "snippet": {
+                "publishedAt": "2016-09-25T04:58:46Z",
+                "channelId": "UCg3_C7BwcV0kBlJbBFHTPJQ",
+                "title": "Rihanna Love On the Brain | Live at Global Citizen Festival 2016",
+                "description": "There is only one Rihanna and only one performance like this. Watch other performances by Kendrick Lamar, Demi Lovato, Major ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/yXvyJDqqQec/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/yXvyJDqqQec/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/yXvyJDqqQec/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "Global Citizen",
+                "liveBroadcastContent": "none",
+                "publishTime": "2016-09-25T04:58:46Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "CWqn0vNcJeq3wV9ATWYllduA55Q",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "MxvyXZ9KhgY"
+            },
+            "snippet": {
+                "publishedAt": "2022-05-28T07:47:00Z",
+                "channelId": "UCkUYwOBtC9T_6TBAPKBNnKw",
+                "title": "Rihana &amp; Kamal 😍",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/MxvyXZ9KhgY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/MxvyXZ9KhgY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/MxvyXZ9KhgY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "JN R192",
+                "liveBroadcastContent": "none",
+                "publishTime": "2022-05-28T07:47:00Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "bsegeh74AEmtO-oVqoZ2njE85w8",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "U0CGsw6h60k"
+            },
+            "snippet": {
+                "publishedAt": "2010-11-12T21:58:33Z",
+                "channelId": "UC2xskkQVFEpLcGFnNSLQY0A",
+                "title": "Rihanna - What&#39;s My Name? ft. Drake",
+                "description": "REMASTERED IN HD! Get Rihanna's eighth studio album ANTI now: Download on TIDAL: http://smarturl.it/downloadANTI Stream ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/U0CGsw6h60k/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/U0CGsw6h60k/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/U0CGsw6h60k/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RihannaVEVO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2010-11-12T21:58:33Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "unEoxCEko5-lYUxPTRj-Ul90Jkg",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "E1mU6h4Xdxc"
+            },
+            "snippet": {
+                "publishedAt": "2009-12-14T05:01:41Z",
+                "channelId": "UC2xskkQVFEpLcGFnNSLQY0A",
+                "title": "Rihanna - Disturbia",
+                "description": "Get Rihanna's eighth studio album ANTI now: Download on TIDAL: http://smarturl.it/downloadANTI Stream on TIDAL: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/E1mU6h4Xdxc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/E1mU6h4Xdxc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/E1mU6h4Xdxc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RihannaVEVO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2009-12-14T05:01:41Z"
+            }
+        },
+        {
+            "kind": "youtube#searchResult",
+            "etag": "d7K5wY_vGdGsP1Li-GlNPdPkwZU",
+            "id": {
+                "kind": "youtube#video",
+                "videoId": "HBxt_v0WF6Y"
+            },
+            "snippet": {
+                "publishedAt": "2012-04-30T12:56:07Z",
+                "channelId": "UC2xskkQVFEpLcGFnNSLQY0A",
+                "title": "Rihanna - Where Have You Been",
+                "description": "Get Rihanna's eighth studio album ANTI now: Download on TIDAL: http://smarturl.it/downloadANTI Stream on TIDAL: ...",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/HBxt_v0WF6Y/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/HBxt_v0WF6Y/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/HBxt_v0WF6Y/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    }
+                },
+                "channelTitle": "RihannaVEVO",
+                "liveBroadcastContent": "none",
+                "publishTime": "2012-04-30T12:56:07Z"
+            }
+        }
+    ]
+}
