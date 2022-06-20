@@ -7,6 +7,8 @@ import { getYoutubeVideos } from './apis/youtube';
 import Nav from './components/Nav';
 import Home from './components/common/Home';
 import About from './components/common/About';
+import VideoItem from './components/VideoItem';
+
 function App() {
 	const [videos, setVideos] = useState([]);
 	const [selectedVideo, setSelectedVideo] = useState(null);
@@ -59,6 +61,7 @@ function App() {
 						}
 					/>
 					<Route path='/about' element={<About />} />
+					<Route path='/videos/:id' element={<VideoItem />} />
 				</Routes>
 			</Router>
 		</div>
