@@ -7,7 +7,6 @@ import { getYoutubeVideos } from './apis/youtube';
 import Nav from './components/Nav';
 import Home from './components/common/Home';
 import About from './components/common/About';
-import Modal from './components/Modal';
 
 
 
@@ -15,12 +14,15 @@ import Modal from './components/Modal';
 function App() {
 	const [videos, setVideos] = useState([]);
 	const [selectedVideo, setSelectedVideo] = useState(null);
+	
+
 	const handleSearchSubmit = (searchTerm) => {
 		getYoutubeVideos(searchTerm)
 			.then((data) => setVideos(data.items))
 
 			.catch((error) => {
-				console.error('Error---->', error);
+				
+				console.log(error)
 			});
 	};
 	const handleSelectedVideo = (video) => {
@@ -45,42 +47,38 @@ function App() {
 	useEffect(() => {
 		getData();
 	}, []);
-	console.log(videos);
+	
 
+	
+
+	
+	
+	
 	return (
-		
-		<div className='container'>
-		
-			<Router>
-				<Nav />
-				<Routes>
-					<Route
-						exact
-						path='/'
-						element={
-							<Home
-								handleSearchSubmit={handleSearchSubmit}
-								handleSelectedVideo={handleSelectedVideo}
-								videos={videos}
-							/>
-						}
-					/>
-					<Route path='/about' element={<About />} />
-				</Routes>
-			</Router>
-		</div>
-	);
+    <div className="container">
+      <Router>
+        
+        <Nav />
+        <Routes>
+          <Route
+            exact
+            path="/"
+            element={
+              <Home
+                handleSearchSubmit={handleSearchSubmit}
+                handleSelectedVideo={handleSelectedVideo}
+                videos={videos}
+                
+              />
+            }
+          />
+          <Route path="/about" element={<About />} />
+        </Routes>
+      </Router>
+    </div>
+  );
 }
 
-//   return (
 
-//     <div className='App'>
-//       {/* <Nav />
-//       <SearchBar />
-//       <VideoDetail />
-//       <VideoList /> */}
-//     </div>
-//   );
-// }
 
 export default App;
