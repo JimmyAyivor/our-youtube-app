@@ -7,6 +7,11 @@ import { getYoutubeVideos } from './apis/youtube';
 import Nav from './components/Nav';
 import Home from './components/common/Home';
 import About from './components/common/About';
+import Modal from './components/Modal';
+
+
+
+
 function App() {
 	const [videos, setVideos] = useState([]);
 	const [selectedVideo, setSelectedVideo] = useState(null);
@@ -43,7 +48,9 @@ function App() {
 	console.log(videos);
 
 	return (
+		
 		<div className='container'>
+		
 			<Router>
 				<Nav />
 				<Routes>

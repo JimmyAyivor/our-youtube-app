@@ -108,6 +108,11 @@ Navbar
 .logo {
   width: 12rem;
 }
+/* 
+====== 
+About
+======
+*/
 .about-section {
 
   gap: 3rem;
@@ -141,6 +146,8 @@ Navbar
 flex: 33.33%;
   padding: 10px;
 }
+
+
 .container {  display: grid;
   grid-template-columns: 1fr;
   grid-template-rows: 1fr;
@@ -216,6 +223,7 @@ img{
   font-size: 17px;
 }
 
+
 /* When the screen is less than 600px wide, stack the links and the search field vertically instead of horizontally */
 @media screen and (max-width: 600px) {
   .topnav a, .topnav input[type=text] {
@@ -223,7 +231,7 @@ img{
     display: block;
     text-align: left;
     width: 100%;
-    margin: 0;
+    margin: auto;
     padding: 14px;
   }
   .topnav input[type=text] {
@@ -235,21 +243,24 @@ form input[type=text] {
   padding: 10px;
   font-size: 17px;
   border: 1px solid grey;
-  float: left;
-  width: 80%;
+  width: 55%;
   background: #f1f1f1;
+}
+
+.search-form{
+  text-align: center;
 }
 
 /* Style the submit button */
 form button {
-  float: left;
-  width: 15%;
-  padding: 10px;
-  background: #2196F3;
-  color: white;
+  margin: auto;
+  width: 12%;
+  padding: 9px;
+  background: #f4f5f6;
+  color: rgb(50, 42, 42);
   font-size: 17px;
   border: 1px solid grey;
-  border-left: none; /* Prevent double borders */
+  
   cursor: pointer;
 }
 
