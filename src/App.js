@@ -7,11 +7,12 @@ import { getYoutubeVideos } from './apis/youtube';
 import Nav from './components/Nav';
 import Home from './components/common/Home';
 import About from './components/common/About';
-import VideoItem from './components/VideoItem';
+import VideoDetail from './components/VideoDetail';
 
 function App() {
 	const [videos, setVideos] = useState([]);
 	const [selectedVideo, setSelectedVideo] = useState(null);
+
 	const handleSearchSubmit = (searchTerm) => {
 		getYoutubeVideos(searchTerm)
 			.then((data) => setVideos(data.items))
@@ -32,7 +33,6 @@ function App() {
 			},
 		})
 			.then(function(response) {
-				console.log(response);
 				return response.json();
 			})
 			.then(function(myJson) {
@@ -42,7 +42,6 @@ function App() {
 	useEffect(() => {
 		getData();
 	}, []);
-	console.log(videos);
 
 	return (
 		<div className='container'>
@@ -61,7 +60,10 @@ function App() {
 						}
 					/>
 					<Route path='/about' element={<About />} />
-					<Route path='/videos/:id' element={<VideoItem />} />
+					<Route
+						path='/videos/:id'
+						element={<VideoDetail selectedVideo={selectedVideo} />}
+					/>
 				</Routes>
 			</Router>
 		</div>
