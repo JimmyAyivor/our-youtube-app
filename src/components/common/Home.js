@@ -1,3 +1,4 @@
+
 import React from "react";
 import VideoList from "../VideoList";
 import SearchBar from "../SearchBar";
@@ -41,4 +42,5 @@ export default function Home({
       </div>
     </main>
   );
+
 }
