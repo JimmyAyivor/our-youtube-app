@@ -1,4 +1,3 @@
-/** @format */
 
 import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
@@ -7,18 +6,22 @@ import { getYoutubeVideos } from './apis/youtube';
 import Nav from './components/Nav';
 import Home from './components/common/Home';
 import About from './components/common/About';
+
 import VideoDetail from './components/VideoDetail';
+
 
 function App() {
 	const [videos, setVideos] = useState([]);
 	const [selectedVideo, setSelectedVideo] = useState(null);
+
 
 	const handleSearchSubmit = (searchTerm) => {
 		getYoutubeVideos(searchTerm)
 			.then((data) => setVideos(data.items))
 
 			.catch((error) => {
-				console.error('Error---->', error);
+				
+				console.log(error)
 			});
 	};
 	const handleSelectedVideo = (video) => {
@@ -43,7 +46,11 @@ function App() {
 		getData();
 	}, []);
 
+	
+	
+	
 	return (
+
 		<div className='container'>
 			<Router>
 				<Nav />
@@ -68,17 +75,8 @@ function App() {
 			</Router>
 		</div>
 	);
+
 }
 
-//   return (
-
-//     <div className='App'>
-//       {/* <Nav />
-//       <SearchBar />
-//       <VideoDetail />
-//       <VideoList /> */}
-//     </div>
-//   );
-// }
 
 export default App;

@@ -1,6 +1,7 @@
 /** @format */
 
 import React, { useState } from 'react';
+import { FaSearch } from 'react-icons/fa';
 
 const SearchBar = (props) => {
 	const [search, setSearch] = useState('');
@@ -16,18 +17,22 @@ const SearchBar = (props) => {
 	};
 
 	return (
-		<div className='search'>
-			<form class='form' onSubmit={handleSubmit}>
-				<input
-					type='text'
-					placeholder='Search..'
-					name='search'
-					onChange={handleSearch}
-				/>
-				<button type='submit'>Search</button>
-			</form>
-		</div>
-	);
+    <section className="section search">
+      <div className="search">
+        <form className="search-form" onSubmit={handleSubmit}>
+          <input
+            type="text"
+            placeholder="Search.."
+            name="search"
+            onChange={handleSearch}/>
+    
+          <button className='btn' type="submit">
+            <FaSearch />
+          </button>
+        </form>
+      </div>
+    </section>
+  );
 };
 
 export default SearchBar;
