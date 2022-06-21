@@ -1,7 +1,19 @@
-import React from "react";
-import Comments from "./Comments/Comments";
+/** @format */
+
+import React from 'react';
+import Comments from './Comments/Comments';
+import YouTube from 'react-youtube';
+import { useParams } from 'react-router-dom';
+
 const VideoDetail = () => {
-  return <div className=''>VideoDetail <Comments /></div>;
+	let params = useParams();
+	const { id } = params;
+
+	return (
+		<div className=''>
+			<YouTube videoId={id} /> <Comments />
+		</div>
+	);
 };
 
 export default VideoDetail;
