@@ -5,7 +5,6 @@ import { useState } from "react";
 import Modal from "../Modal";
 
 export default function Home({
-  selectedVideo,
   videos,
   handleSelectedVideo,
   handleSearchSubmit,
@@ -28,7 +27,7 @@ export default function Home({
       />
 
       <div className='App'>
-        //<button onClick={() => setShow(true)}>Show Error</button>
+        {/* <button onClick={() => setShow(true)}>Show Error</button> */}
         <Modal title='Error' onClose={() => setShow(false)} show={show}>
           <p>Something went wrong</p>
         </Modal>

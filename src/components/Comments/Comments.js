@@ -9,7 +9,6 @@ function Comments() {
   const [name, setName] = useState("");
   const [comment, setComment] = useState("");
   const [result, setResult] = useState([]);
-  const timeAgo = new TimeAgo("en-US");
   const handleName = (e) => {
     const { value } = e.target;
     setName(value);

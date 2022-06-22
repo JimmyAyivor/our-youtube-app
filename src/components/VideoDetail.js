@@ -1,5 +1,3 @@
-/** @format */
-
 import React from "react";
 import Comments from "./Comments/Comments";
 import YouTube from "react-youtube";

@@ -8,7 +8,7 @@ import About from "./components/common/About";
 
 import VideoDetail from "./components/VideoDetail";
 
-function App() {
+function App(props) {
   const [videos, setVideos] = useState([]);
   const [selectedVideo, setSelectedVideo] = useState(null);
 
@@ -17,7 +17,7 @@ function App() {
       .then((data) => setVideos(data.items))
 
       .catch((error) => {
-        console.log(error);
+        props.setShow(true)
       });
   };
   const handleSelectedVideo = (video) => {
