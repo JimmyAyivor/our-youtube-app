@@ -165,8 +165,8 @@ About
   display: flex;
   flex-wrap: wrap;
   width: 95%;
-  margin: 50px;
-  padding: 50px;
+  margin: 25px;
+  padding: 25px;
   border: rgb(242, 255, 0);
   justify-content: center;
 }
