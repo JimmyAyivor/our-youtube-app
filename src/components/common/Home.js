@@ -33,7 +33,7 @@ export default function Home({
         setShow={setShow}
         show={show}
       />
-      <VideoDetail video={selectedVideo} />
+      
       <div className="App">
         <button onClick={() => setShow(true)}>Show Error</button>
         <Modal title="Error" onClose={() => setShow(false)} show={show}>

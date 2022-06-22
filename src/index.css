@@ -106,7 +106,7 @@ Navbar
   color: var(--primaryColor);
 }
 .logo {
-  width: 12rem;
+  width: 15rem;
 }
 /* 
 ====== 
@@ -115,7 +115,7 @@ About
 */
 .about-section {
 
-  gap: 3rem;
+  gap: 10rem;
     text-align: center;
   width: var(--smallWidth);
   max-width: var(--maxWidth);
@@ -124,7 +124,7 @@ About
 .about-section p {
   
   
-  line-height: 2rem;
+  line-height: 5rem;
   font-weight: 400;
   letter-spacing: 2px;
 }
@@ -134,7 +134,7 @@ About
 }
 .about-section img{
   
-     width: 75%;
+     width: 100%;
   display: block;
 }
 .imgRow{
@@ -144,7 +144,7 @@ About
 .imgColumn{
   
 flex: 33.33%;
-  padding: 10px;
+  padding: 5px;
 }
 
 
@@ -168,9 +168,9 @@ flex: 33.33%;
   display: flex;
   flex-wrap: wrap;
   width: 95%;
-  margin: 25px;
-  padding: 25px;
-  border: 1px solid;
+  margin: 50px;
+  padding: 50px;
+  border: rgb(242, 255, 0);
   justify-content: center;
 }
 .video-item{ 
@@ -179,6 +179,10 @@ flex: 33.33%;
   padding: 0px;
   cursor: pointer;
 }
+.header{
+  color: #02111d;
+}
+
 img{
   width: 270px;
 }
@@ -209,7 +213,7 @@ img{
 
 /* Style the "active" element to highlight the current page */
 .topnav a.active {
-  background-color: #2196F3;
+  background-color: #02111d;
   color: white;
 }
 
@@ -265,7 +269,7 @@ form button {
 }
 
 form button:hover {
-  background: #0b7dda;
+  background: #eb1337;
 }
 
 /* Clear floats */
@@ -280,3 +284,22 @@ flex: 33.33%;
   padding: 10px;
 }
 
+
+
+.video-detail iframe {
+  display: block;
+    margin: auto;
+  padding:  10px;
+    width: 50vw;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius: var(--mainBorderRadius);
+  text-align: center;
+}
+
+.video-title {
+  margin: auto;
+  text-align: center;
+  width: 590px;
+  font-size: 18px;
+}
