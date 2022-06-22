@@ -1,10 +1,12 @@
 import React from "react";
 import VideoItem from "./VideoItem";
 
-const VideoList = ({ videos, handleSelectedVideo }) => {
+const VideoList = ({ videos, handleSelectedVideo,showErrorModal }) => {
   if (!videos) {
+
     return (
-      <div className='videos'>No Videos returned please try again later!</div>
+
+      showErrorModal()
     );
   } else {
     const renderedVideos = videos.map((video) => {
