@@ -13,15 +13,17 @@ function Comment(comments) {
 
   return (
     <div className='comment-box'>
-      <hr />
-      <h3>Comments</h3>
+      <h3>
+        Comments: <span>{result.length}</span>
+      </h3>
+
       <form onSubmit={handleSubmit}>
         <label htmlFor='name'>
-          Name
           <input
             type='text'
             name='name'
             id='name'
+            placeholder='Name'
             value={name}
             onChange={handleName}
             required
@@ -30,11 +32,11 @@ function Comment(comments) {
         <br />
         <br />
         <label htmlFor='comment'>
-          Comment
           <input
             type='text'
             name='comment'
             id='comment'
+            placeholder='Add a comment...'
             value={comment}
             onChange={handleComment}
             required
@@ -46,6 +48,7 @@ function Comment(comments) {
           Comment
         </button>
       </form>
+      <hr />
       <>{result}</>
     </div>
   );

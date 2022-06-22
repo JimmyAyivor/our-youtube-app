@@ -1,13 +1,9 @@
 import React from "react";
 import VideoItem from "./VideoItem";
 
-const VideoList = ({ videos, handleSelectedVideo,showErrorModal }) => {
+const VideoList = ({ videos, handleSelectedVideo, showErrorModal }) => {
   if (!videos) {
-
-    return (
-
-      showErrorModal()
-    );
+    return showErrorModal();
   } else {
     const renderedVideos = videos.map((video) => {
       const id = video.id.videoId;
