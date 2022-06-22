@@ -124,9 +124,9 @@ About
 .about-section p {
   
   
-  line-height: 5rem;
+  /* line-height: 5rem; */
   font-weight: 400;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
 }
 .about-section a {
   text-decoration: none;
@@ -136,6 +136,10 @@ About
   
      width: 100%;
   display: block;
+  ;
+}
+.about-section img:hover {
+transform: rotateY(180deg)
 }
 .imgRow{
   display: flex;
