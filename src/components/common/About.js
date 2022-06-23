@@ -25,9 +25,9 @@ export default function About() {
 
             />
             <p>
-              👋 Hi, I’m @JimmyAyivor 👀 I’m interested in ...React JS 🌱 I’m
-              currently learning ...Javascript 💞️ I’m looking to collaborate on
-              ...React Apps 📫 How to reach me ... @Ayivor
+              <span role="img" aria-label="Wave">👋</span> Hi, I’m @JimmyAyivor <span role="img" aria-label="Eyes">👀 </span>I’m interested in ...React JS <span role="img" aria-label="Seeding">🌱</span> I’m
+              currently learning ...Javascript <span role="img" aria-label="Revolving_hears">💞️</span> I’m looking to collaborate on
+              ...React Apps <span role="img" aria-label="Mailbox">📫</span> How to reach me ... @Ayivor
             </p>
             Click here <FaGithub />
           </a>
@@ -45,7 +45,7 @@ export default function About() {
 
             />
             <p>
-              🎯 Focusing I am a full-stack web dev student at Pursuit
+              <span role="img" aria-label="Posion">🎯</span> Focusing I am a full-stack web dev student at Pursuit
               Fellowship on a journey to become a software engineer.
             </p>
             Click here <FaGithub />
