@@ -26,7 +26,7 @@ export default function About() {
             />
             <p>
               <span role="img" aria-label="Wave">👋</span> Hi, I’m @JimmyAyivor <span role="img" aria-label="Eyes">👀 </span>I’m interested in ...React JS <span role="img" aria-label="Seeding">🌱</span> I’m
-              currently learning ...Javascript <span role="img" aria-label="Revolving_hears">💞️</span> I’m looking to collaborate on
+              currently mastering ...Javascript <span role="img" aria-label="Revolving_hears">💞️</span> I’m looking to collaborate on
               ...React Apps <span role="img" aria-label="Mailbox">📫</span> How to reach me ... @Ayivor
             </p>
             Click here <FaGithub />
