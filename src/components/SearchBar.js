@@ -37,7 +37,7 @@ const SearchBar = ({ handleSearchSubmit }) => {
             placeholder='Select Max results'
             name=''
             id=''
-            min={4}
+            min={1}
             max={24}
             onChange={handleMaxResult}
           />
