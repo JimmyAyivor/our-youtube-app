@@ -7,8 +7,8 @@ export default function About() {
     <section className="section about-section">
       <h1 className="section-title">About Us</h1>
 
-      <p className='paragraph'>
-        Meet our team!  We are 8.4-NW Pursuit fellows that created the YouTube
+      <p className="paragraph">
+        Meet our team! We are 8.4-NW Pursuit fellows that created the YouTube
         clone project for module 3. For more information about us, please click
         on the GitHub link.
       </p>
@@ -24,6 +24,11 @@ export default function About() {
               alt="github"
 
             />
+            <p>
+              👋 Hi, I’m @JimmyAyivor 👀 I’m interested in ...React JS 🌱 I’m
+              currently learning ...Javascript 💞️ I’m looking to collaborate on
+              ...React Apps 📫 How to reach me ... @Ayivor
+            </p>
             Click here <FaGithub />
           </a>
         </div>
@@ -39,6 +44,10 @@ export default function About() {
               alt="github"
 
             />
+            <p>
+              🎯 Focusing I am a full-stack web dev student at Pursuit
+              Fellowship on a journey to become a software engineer.
+            </p>
             Click here <FaGithub />
           </a>
         </div>
@@ -54,6 +63,9 @@ export default function About() {
               alt="github"
 
             />
+            <p>
+              I am a Pursuit fellow pursuing a career as a Full Stack Developer.
+            </p>
             Click here <FaGithub />
           </a>
         </div>
