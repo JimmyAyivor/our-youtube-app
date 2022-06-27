@@ -3,7 +3,7 @@ import { FaSearch } from "react-icons/fa";
 
 const SearchBar = ({ handleSearchSubmit }) => {
   const [search, setSearch] = useState("");
-  const [maxResult, setMaxResult] = useState(24);
+  const [maxResult, setMaxResult] = useState(12);
 
   console.log(search);
 
